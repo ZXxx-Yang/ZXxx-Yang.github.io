@@ -24,13 +24,13 @@ repository               : "ZXxx-Yang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhengxi Yang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Guangzhou, China"
+  employer         : "Guangzhou University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "1112216006@e.gzhu.edu.cn" 
 
   # Academic websites
   academia         : # URL
