@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a fourth year PhD student from Earthquake Engineering Research & Test Center(EERTC),[Guangzhou University]
 My research interest includes masonry cultural heritage protection, seismic performance evaluation,and structure health monitoring.
-I am very fortunate to be advised by [Prof. Fulin Zhou] Director of EERTC, Peking University..
+I am very fortunate to be advised by [Prof. Fulin Zhou] Director of EERTC, Guangzhou University..
 
 [Email(mailto:11122160068@e.gzhu.edu.cn)/[Github](https://github.com/ZXxx-Yang)/
 
